@@ -1,0 +1,1 @@
+# TinyML-Dinamik-Tensor-Yonetimi
